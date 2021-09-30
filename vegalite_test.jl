@@ -6,7 +6,7 @@ d = VegaDatasets.VegaJSONDataset(huanuco, "data\\dist_huanucof.json")
 
 # Generando nuestro primer mapa 
 
-mapa1= @vlplot(
+mapa1 = @vlplot(
     :geoshape,
     title = "Distritos de Huánuco",
     width = 640, 
@@ -27,7 +27,7 @@ mapa1= @vlplot(
 
 dat_pop = load("data/ccpp_huanuco.csv")
 
-mapa2= @vlplot(
+mapa2 = @vlplot(
     width = 640,
     height = 360,
     title = "Centros Poblados del Departamento de Huánuco"
