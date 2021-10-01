@@ -1,6 +1,6 @@
 # Uso de VegaLite para visualizar mapas
 
-En esta oportunidad se elaboró un código que nos permite explorar las ventajas que tiene el paquete VegaLite.jl para visualizar mapas. Usamos datos geográficos que corresponden a límites distritales y centros poblados. El procedimiento seguido puede ser revisado aquí.
+En esta oportunidad se elaboró un código que nos permite explorar las ventajas que tiene el paquete VegaLite.jl para visualizar mapas. Usamos datos geográficos que corresponden a límites distritales y centros poblados. El procedimiento seguido puede ser revisado [aquí](https://www.educagis.com/wpcarlos/2021/09/27/uso-de-vegalite-para-visualizar-mapas/).
 
 ![](img/mapa2_huanuco.svg)
 
